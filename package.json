@@ -1,12 +1,12 @@
 {
-  "name": "@femessage/test",
+  "name": "@gd4ark/test",
   "version": "1.0.0",
   "description": "",
-  "author": "https://github.com/FEMessage",
+  "author": "https://github.com/gd4ark",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/FEMessage/test.git"
+    "url": "https://github.com/gd4ark/test.git"
   },
   "keywords": [
     "vue",
